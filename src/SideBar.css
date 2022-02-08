@@ -1,0 +1,15 @@
+.sidebar{
+}
+.menu{
+    font-size: 16px;
+    padding:10px 15px;
+    border-top: 1px solid rgb(207, 207, 248);
+    border-right:1px solid rgb(158, 158, 236);
+    cursor: pointer;
+    display: block;
+   
+
+}
+.menu:hover{
+    background-color: lightblue;
+}
